@@ -1882,6 +1882,8 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     CACertService \
     CneApp \
+    DaxUI \
+    daxService \
     IWlanService \
     TimeService \
     PowerOffAlarm \
